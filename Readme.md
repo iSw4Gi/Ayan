@@ -97,4 +97,4 @@ for each employee. The AI was tailored to assess these factors based on specific
 
 ![Image][def]
 
-[def]: https://cdn.discordapp.com/attachments/1168296661571874827/1168323649451872396/image.png?ex=65515930&is=653ee430&hm=79081df520c7aac6a23ca3954d7ba63014f4b8441acff36d07a4453377527aa5&
+[def]: https://cdn.discordapp.com/attachments/1168296661571874827/1168333783376859146/image.png?ex=655162a0&is=653eeda0&hm=bffed33ba678014bdebc3039c652e0c45847c37e71f2e98692f7db8b677813a7&
