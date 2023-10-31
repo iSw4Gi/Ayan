@@ -1,6 +1,6 @@
 # Ayan Doucmnetation
 
-![image](https://cdn.discordapp.com/attachments/1168296661571874827/1168326834266574908/IMG_0566.jpg?ex=65515c27&is=653ee727&hm=6aa0c8badc012d0c480fd41322a246f8ea2fc14d9390907e357e7193c70389ee&)
+![image](https://cdn.discordapp.com/attachments/1168296661571874827/1168804485947203635/image.png?ex=65531900&is=6540a400&hm=cb1fef6e166614fab8b1f80692a1fff0befb4942c9ac2e58759bee939eb82a13&)
 
 # Introduction
 The construction sector is considered one of the most influential pillars in the country's development and a crucial foundation in the Vision 2030. Due to its impact, any neglect or disruption caused by poor performance, low productivity, weak supervision, and monitoring of workers in the construction project leads to catastrophic consequences, 
